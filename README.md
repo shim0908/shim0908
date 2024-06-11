@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=%20shim's&fontSize=150&fontColor=#f5f5f5)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=white&height=300&section=header&text=%20shim's&fontSize=150&fontColor=#f5f5f5)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
